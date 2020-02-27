@@ -5,4 +5,4 @@ channels:
 
 dependencies:
   - pip:
-    -r requirements.txt
+    - -r file:requirements.txt
